@@ -1,7 +1,7 @@
 #include <iostream>
 #include <limits.h>
 
-//Code for verification of a binary search tree (BST)
+//Code for verification of a binary search tree (BST) 
 
 using namespace std;
 
